@@ -28,4 +28,4 @@
 - two
 - three
 8.这里测试奇怪的**
-- [**Hexo**](https://github.com/Kaijun/hexo-theme-huxblog)
+- [Hexo](https://github.com/Kaijun/hexo-theme-huxblog)
