@@ -27,6 +27,8 @@
 - one
 - two
 - three
-8.这里测试奇怪的**
+
+8.这里测试奇怪的**(表示加粗)
+
 - [Hexo](https://github.com/Kaijun/hexo-theme-huxblog)
 - **Hexo**
